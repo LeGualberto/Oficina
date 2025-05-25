@@ -1,6 +1,7 @@
 # Oficina
 Projeto de Modelagem para uma Oficina no Curso do DIO.
 
+Padronização de Nomenclatura.
 id_: Chave primária (ex: id_cliente)
 
 nm_: Nome (ex: nm_cliente)
